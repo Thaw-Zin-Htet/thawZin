@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "isotope-layout": "^3.0.6",
+    "jquery": "^3.6.0",
+    "waypoints": "^4.0.1",
+    "wowjs": "^1.1.3"
+  }
+}
